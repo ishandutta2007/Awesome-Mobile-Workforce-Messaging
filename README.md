@@ -59,7 +59,7 @@ The self-hosted and open-source workforce messaging ecosystem provides data sove
 
 *The table below is sorted by **GitHub Stargazers (Descending)**:*
 
-| 📦 Repository | 🌟 Star Badge | 📝 Description & Highlights |
+| 📦 Repository | 🌟 Stars_Badge | 📝 Description & Highlights |
 |:---|:---|:---|
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | **Self-hosted communication platform for secure environments.** Starter plan free for up to 50 users. MIT licensed Community edition. DoD ATO up to IL6 for classified defense environments. Federation for cross-agency communication. |
 | **[Mattermost](https://github.com/mattermost/mattermost)** | [![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers) | **Secure collaboration platform for mission-critical work.** Free Entry edition for 25–50 users with messaging, playbooks, boards, and AI agents. Designed for defense and air-gapped infrastructure. |
